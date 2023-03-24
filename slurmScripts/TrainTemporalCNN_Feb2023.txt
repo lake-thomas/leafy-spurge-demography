@@ -1,0 +1,15 @@
+#!/bin/bash -l
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=24
+#SBATCH --mem=64g
+#SBATCH -t 6:00:00
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=lakex055@umn.edu
+#SBATCH -p k40
+#SBATCH --gres=gpu:k40:2
+
+cd /home/moeller/shared/leafy-spurge-demography/pythonFiles/
+
+source activate tf_gpu
+
+python TemporalCNN_TrainModel_LatLongEnc_Feb2023.py $SLURM_ARRAY_TASK_ID

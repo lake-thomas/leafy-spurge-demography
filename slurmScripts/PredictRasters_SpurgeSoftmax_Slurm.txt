@@ -1,0 +1,14 @@
+#!/bin/bash -l
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=4
+#SBATCH --mem=16g
+#SBATCH -t 6:00:00
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=lakex055@umn.edu
+#
+
+cd /home/moeller/shared/leafy-spurge-demography/pythonFiles
+
+source activate tf_gpu
+
+python predictRasters-spurgesoftmax-latlon-encoding.py $SLURM_ARRAY_TASK_ID
