@@ -1,0 +1,23 @@
+Model: XCM
+
+Dataset BasicMotions loaded
+Training set size: 40
+Testing set size: 40
+
+Training on fold 1
+Accuracy Test: 0.95
+
+Training on fold 2
+Accuracy Test: 0.95
+
+Training on fold 3
+Accuracy Test: 0.975
+
+Training on fold 4
+Accuracy Test: 0.85
+
+Training on fold 5
+Accuracy Test: 0.95
+
+Training on the full train set
+Accuracy Test: 1.0
