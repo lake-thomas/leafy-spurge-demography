@@ -21,7 +21,7 @@ We concentrate on leafy spurge (Euphorbia virgata; Euphorbiaceae) in Minnesota, 
 - `README.md`: You are currently reading this file.
 - `LICENSE`: Repository license information.
 
-Feel free to explore the provided folders for detailed analyses and code implementations related to remote sensing.
+![alt text](https://github.com/lake-thomas/leafy-spurge-demographyblob/main/Predicted_LeafySpurge_2019.JPG?raw=true)
 
 ---
 
