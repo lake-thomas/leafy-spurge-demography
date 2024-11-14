@@ -14,14 +14,9 @@ We concentrate on leafy spurge (Euphorbia virgata; Euphorbiaceae) in Minnesota, 
 
 ## Repository Structure
 
-- `analysesNotebooks/`: Contains Jupyter notebooks for data analysis.
 - `pythonFiles/`: Includes Python scripts used in the remote sensing analysis.
-- `temporalCNN/`: Focuses specifically on the temporal Convolutional Neural Network.
-- `slurmScripts/`: Contains SLURM scripts for high-performance computing.
-- `README.md`: You are currently reading this file.
+- `temporalCNN/`: Code for the temporal Convolutional Neural Network (forked from https://github.com/charlotte-pel/temporalCNN)
 - `LICENSE`: Repository license information.
-
-![Predicted Leafy Spurge](https://github.com/lake-thomas/leafy-spurge-demographyblob/main/Predicted_LeafySpurge_2019.JPG?raw=true)
 
 ---
 
