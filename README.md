@@ -14,7 +14,8 @@ We concentrate on leafy spurge (Euphorbia virgata; Euphorbiaceae) in Minnesota, 
 
 ## Repository Structure
 
-- `pythonFiles/`: Includes Python scripts used in the remote sensing analysis.
+- Python files (.py) include code for preparing Landsat data, for creating training datasets, and for training and evaluating a temporal convolutional neural network.
+- CSV (.csv) files included an example training dataset for the temporal convolutional neural network.
 - `temporalCNN/`: Code for the temporal Convolutional Neural Network (forked from https://github.com/charlotte-pel/temporalCNN)
 - `LICENSE`: Repository license information.
 
