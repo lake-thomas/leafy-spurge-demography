@@ -10,7 +10,7 @@ This repository explores the benefits of remote sensing, particularly satellite 
 
 ## Study Focus: Leafy Spurge
 
-We concentrate on leafy spurge (Euphorbia virgata; Euphorbiaceae) in Minnesota, USA. Leafy spurge is the most economically damaging invasive plant in the US, with total costs exceeding $1 billion. The study uses Landsat scenes from 2000 to 2020 to build deep learning convolutional neural networks, incorporating remote sensing data for predicting the probability of occurrence and inferring population growth/decline.
+We concentrate on leafy spurge (Euphorbia virgata; Euphorbiaceae) in Minnesota, USA. Leafy spurge is among the most economically damaging invasive plant in the US, with total costs exceeding $1 billion. The study uses Landsat scenes from 2000 to 2020 to build deep learning convolutional neural networks, incorporating remote sensing data for predicting the probability of occurrence and inferring population growth/decline.
 
 ## Repository Structure
 
@@ -22,4 +22,4 @@ We concentrate on leafy spurge (Euphorbia virgata; Euphorbiaceae) in Minnesota, 
 ---
 
 **Citation:**
-Include the relevant citations for the studies and methodologies mentioned in the introduction and throughout the README.
+Placeholder
