@@ -6,11 +6,11 @@ Despite a growing understanding of the mechanisms and consequences of biological
 
 ## Remote Sensing and Species Distribution Models (SDMs)
 
-This repository explores the benefits of remote sensing, particularly satellite imagery, as a powerful tool for collecting information on the spatial distribution and abundance of invasive species. The focus is on developing convolutional neural networks that integrate time-series remote sensing data to enhance the accuracy of predictions.
+This repository explores the benefits of remote sensing, particularly satellite imagery, as a powerful tool for collecting information on the spatial distribution and population trends of invasive species. The focus is on developing convolutional neural networks that integrate time-series remote sensing data to enhance the accuracy of predictions.
 
 ## Study Focus: Leafy Spurge
 
-We concentrate on leafy spurge (Euphorbia virgata; Euphorbiaceae) in Minnesota, USA. Leafy spurge is among the most economically damaging invasive plant in the US, with total costs exceeding $1 billion. The study uses Landsat scenes from 2000 to 2020 to build deep learning convolutional neural networks, incorporating remote sensing data for predicting the probability of occurrence and inferring population growth/decline.
+We concentrate on leafy spurge (Euphorbia virgata; Euphorbiaceae) in Minnesota, USA. Leafy spurge is among the most economically damaging invasive plant in the US, with total costs exceeding $1 billion. The study uses Landsat time-series scenes from 2000 to 2020 to build deep learning convolutional neural networks, incorporating remote sensing data for predicting the probability of occurrence and inferring population growth/decline.
 
 ## Repository Structure
 
