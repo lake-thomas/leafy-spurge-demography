@@ -1,5 +1,7 @@
 # Leafy Spurge Demography: Remote Sensing Analysis
 
+This repo contains code for training and testing temporal convolutional neural networks and species distribution models described in this paper: *Lake, Thomas; Briscoe Runquist, Ryan; & Moeller, David. (2026). Two decades of Landsat images reveal spatial and temporal dynamics of invasion and improve species distribution models. Ecological Applications, X(X), XXX-XXX. DOI: XXX
+
 ## Introduction
 
 Despite a growing understanding of the mechanisms and consequences of biological invasions, forecasting the spread of introduced populations remains challenging. This repository focuses on leveraging remote sensing techniques for cost-effective strategies to locate and predict the spread of invasive species.
@@ -19,7 +21,3 @@ We concentrate on leafy spurge (Euphorbia virgata; Euphorbiaceae) in Minnesota, 
 - `temporalCNN/`: Code for the temporal Convolutional Neural Network (forked from https://github.com/charlotte-pel/temporalCNN)
 - `LICENSE`: Repository license information.
 
----
-
-**Citation:**
-Placeholder
