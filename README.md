@@ -1,6 +1,8 @@
 # Leafy Spurge Demography: Remote Sensing Analysis
 
-This repo contains code for training and testing temporal convolutional neural networks and species distribution models described in this paper: *Lake, Thomas; Briscoe Runquist, Ryan; & Moeller, David. (2026). Two decades of Landsat images reveal spatial and temporal dynamics of invasion and improve species distribution models. Ecological Applications, X(X), XXX-XXX. DOI: XXX
+This repo contains code for training and testing temporal convolutional neural networks and species distribution models described in this paper: Lake, Thomas; Briscoe Runquist, Ryan; & Moeller, David. (2026). Two decades of Landsat images reveal spatial and temporal dynamics of invasion and improve species distribution models. Ecological Applications, X(X), XXX-XXX. DOI: XXX
+
+Data supporting this paper are available through the Data Repository for the University of Minnesota (DRUM): https://doi.org/10.13020/ba6e-yt29
 
 ![Leafy spurge Species Distribution Models](img.png)
 
